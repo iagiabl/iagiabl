@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Abigail, also known as Abbie
 
+I am a first-year student studying Creative Computing. I am currently learning JavaScript, Linux and Git to build projects and develop my technical skills further.
 <!--
 **iagiabl/iagiabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
